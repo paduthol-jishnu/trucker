@@ -1,1 +1,3 @@
-console.log('signIn');
+(function(){
+		console.log('Sign In');
+})();
